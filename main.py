@@ -1,5 +1,7 @@
-name = input("Ваше ім'я:")
+print ('Перевірка')
+name = input('їм*я')
 
-print("Hello "  +  name)
 
 
+if name == "sid":
+    print('Доступ дозволено')
